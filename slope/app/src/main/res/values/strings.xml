@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">slope</string>
+    <string name="button">Button</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="title_activity_main5">Main5Activity</string>
+</resources>

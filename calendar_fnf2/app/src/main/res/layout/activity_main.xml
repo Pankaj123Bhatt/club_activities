@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.pankajbhatt.calendar_fnf.MainActivity">
+
+    <jp.co.recruit_mp.android.lightcalendarview.LightCalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:lcv_weekDayTextSize="18sp"
+        app:lcv_dayTextSize="18sp"
+        app:lcv_textColor="@drawable/calendar_day_text"
+        app:lcv_selectionColor="@drawable/calendar_selection"
+        app:lcv_accentColor="@drawable/calendar_accent" />
+
+</RelativeLayout>
